@@ -1,0 +1,55 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2017.05.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button1Name=Use
+Set1Button1Slots=Right Mouse Button (2)
+Set1Button2Name=Put down/Item 1
+Set1Button2Slots=RELEASE ZONE 0.01s,Backspace,RELEASE ZONE 0.20s,HOLD ZONE 0.21s,1
+Set1Button3Name=Reload
+Set1Button3Slots=Left Square Bracket
+Set1Button4Name=Throw
+Set1Button4Slots=Middle Mouse Button (3)
+Set1Button5Name=Lean left
+Set1Button5Slots=Q
+Set1Button6Name=Lamp/Lean right
+Set1Button6Slots=RELEASE ZONE 0.01s,F12,RELEASE ZONE 0.20s,HOLD ZONE 0.21s,E
+Set1Button7Name=Inventory
+Set1Button7Slots=I
+Set1Button8Name=Pause/Quicksave
+Set1Button8Slots=RELEASE ZONE 0.01s,Escape,RELEASE ZONE 0.20s,HOLD ZONE 0.21s,NumPad +,PAUSE 0.30s
+Set1Button9Name=Crouch
+Set1Button9Slots=X
+Set1Button9Toggle=1
+Set1Button10Name=Scope
+Set1Button10Slots=Minus
+Set1DPadUpName=Toggle walk
+Set1DPadUpSlots=Caps Lock
+Set1DPadRightName=Next Item
+Set1DPadRightSlots=Mouse Wheel Down
+Set1DPadDownName=Chg Ammo
+Set1DPadDownSlots=Apostrophe
+Set1DPadLeftName=Prev Item
+Set1DPadLeftSlots=Mouse Wheel Up
+Set1Stick1UpSlots=Arrow Up
+Set1Stick1RightSlots=Arrow Right
+Set1Stick1DownSlots=Arrow Down
+Set1Stick1LeftSlots=Arrow Left
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=48
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=64
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=48
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=64
+Set1TriggerLeftName=Jump
+Set1TriggerLeftSlots=Space
+Set1TriggerRightName=Fire
+Set1TriggerRightSlots=Left Mouse Button (1),Enter
+Set1TriggerRightRumble=1
