@@ -11,3 +11,6 @@ Xpadder Profiles
 * A use, X reload weapon, Y throw/drop item
 * D-Pad down changes ammo type, up toggles between running and walking, D-Pad left/right navigates through items
 * Left stick button crouching, right stick button activates Scope
+
+# Note:
+On Qwertz-Keyboards the default key for the laser sight is the acute accent which translates to right square bracket in Xpadder but this doesn't work in game. If it's not working you have to change the keybinding in the settings of the game and modify the corresponding keybinding in Xpadder
